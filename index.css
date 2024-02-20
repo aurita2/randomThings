@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+canvas {
+    position: absolute;
+    background-color: rgb(23, 23, 23);
+    top: 0;
+    left: 0;
+}
+
+/* h1 {
+    position: absolute;
+    top: 400px;
+    padding: 0;
+    margin: 0;
+    left: 0;
+    color: red;
+} */
