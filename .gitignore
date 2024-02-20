@@ -1,0 +1,9 @@
+# Ignore these files and directories
+
+# Node.js
+node_modules/
+
+# Build files
+dist/
+build/
+cls
